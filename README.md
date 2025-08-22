@@ -8,7 +8,7 @@ Core features are implemented, with UI/UX refined iteratively.
 
 ## Projects
 - **Disc-Toki** — Ultimate Frisbee pickup finder  
-  → [Showcase Repo](https://github.com/yourusername/disc-toki) • [Demo Video](#)
+  → [Showcase Repo](https://github.com/roymvega/disc-toki-showcase) • [Demo Video](https://drive.google.com/file/d/18loQgv-a8lWopfkKCCIfE7G6suswVVX6/view)
 - **Shift Scheduler** — Staff scheduling & time tracking  
   → [Showcase Repo](https://github.com/yourusername/shift-scheduler) • [Demo Video](#)
 
